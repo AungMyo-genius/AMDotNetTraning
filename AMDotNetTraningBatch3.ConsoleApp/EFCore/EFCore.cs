@@ -1,10 +1,4 @@
-﻿using DotNetTrainingBatch3.ConsoleApp.Models;
-using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
-using Microsoft.EntityFrameworkCore;
+﻿using AMDotNetTrainingBatch3.ConsoleApp.Models;
 
 namespace AMDotNetraningBatch3.ConsoleApp.EFCoreExamples
 {

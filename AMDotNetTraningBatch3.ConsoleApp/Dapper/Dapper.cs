@@ -1,13 +1,7 @@
-﻿using System;
-using System.Collections.Generic;
-using System.Data.SqlClient;
+﻿using System.Data.SqlClient;
 using System.Data;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
 using Dapper;
-using AMDotNetraningBatch3.ConsoleApp.Models;
-using System.Reflection.Metadata;
+using AMDotNetTrainingBatch3.ConsoleApp.Models;
 
 namespace AMDotNetraningBatch3.ConsoleApp.Dapper
 {

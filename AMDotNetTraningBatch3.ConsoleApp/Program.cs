@@ -2,7 +2,7 @@
 using System.Data.SqlClient;
 using AMDotNetraningBatch3.ConsoleApp.AdoDotNet;
 using AMDotNetraningBatch3.ConsoleApp.Dapper;
-using AMDotNetraningBatch3.ConsoleApp.EFCore;
+using AMDotNetraningBatch3.ConsoleApp.EFCoreExamples;
 
 Console.WriteLine("Hello, World!");
 
